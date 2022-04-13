@@ -1,0 +1,14 @@
+[21:21:51] [User Authenticator #48/INFO]: UUID of player eelproductions is 64711451-e51b-46e7-8489-926fa3755009
+[21:21:51] [Server thread/INFO]: eelproductions[/207.62.170.215:29256] logged in with entity id 304996 at (21.355243027705388, 83.0, -31.496254160134097)
+[21:21:51] [Server thread/INFO]: eelproductions joined the game
+[21:22:12] [Server thread/INFO]: [eelproductions: Stopping the server]
+[21:22:12] [Server thread/INFO]: Stopping server
+[21:22:12] [Server thread/INFO]: Saving players
+[21:22:12] [Server thread/INFO]: Saving worlds
+[21:22:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[WowieCraft]'/minecraft:overworld
+[21:22:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[WowieCraft]'/minecraft:the_nether
+[21:22:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[WowieCraft]'/minecraft:the_end
+[21:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (WowieCraft): All chunks are saved
+[21:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
